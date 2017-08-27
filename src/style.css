@@ -1,0 +1,30 @@
+.reset-progression, .refresh-progression {
+  cursor: pointer;
+  padding: 0px 10px;
+  margin-right: 10px;
+  border: 2px solid white;
+  border-radius: 7px;
+}
+
+.reset-progression:hover, .refresh-progression:hover {
+  font-weight: bold;
+}
+
+.percentage-change-header, .percentage-change24-header {
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.1);
+  border-left: 1px dotted rgba(0, 0, 0, 0.5);
+}
+
+.percentage-change-display, .percentage-change24-display { 
+  font-size: 1.2em;
+}
+
+.change-negative-num {
+
+  color: #ff3921;
+}
+
+.change-positive-num {
+  color: #6ade04;
+}
