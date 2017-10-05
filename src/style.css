@@ -21,8 +21,11 @@
 }
 
 .change-negative-num {
-
   color: #ff3921;
+}
+
+.change-neutral-num {
+  color: #b9b9b9;
 }
 
 .change-positive-num {

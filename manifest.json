@@ -8,7 +8,8 @@
     {
       "matches": ["http://www.google.com/*", "https://www.coinigy.com/*"],
       "css": ["src/style.css"],
-      "js": ["vendor/jquery.js", "vendor/lodash.js", "vendor/moment.js", "src/coinigy.js"]
+
+      "js": ["vendor/jquery.js",  "vendor/plot/jquery.flot.js", "vendor/plot/JUMflot.js", "vendor/plot/jquery.flot.pie.js", "vendor/plot/jquery.flot.time.js", "vendor/plot/jquery.flot.resize.js", "vendor/plot/jquery.flot.tooltip.js", "vendor/lodash.js", "vendor/moment.js", "src/coinigy.js"]
     }
   ],
   "browser_action": {
